@@ -1,4 +1,4 @@
-# project-express
+# expense-tracker-api
 Node.js + Express + PostgreSQL API.
 
 ## Database schema
